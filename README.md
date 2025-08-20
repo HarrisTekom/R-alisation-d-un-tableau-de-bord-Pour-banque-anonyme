@@ -18,6 +18,6 @@ Ce projet a pour but de développer un tableau de bord interactif permettant de 
 
 
 ⚙️ Utilisation
-Télécharge le fichier .pbix
-Ouvre-le avec Power BI Desktop
-Navigue parmi les pages et utilise les filtres pour explorer les segments
+* Télécharge le fichier .pbix
+* Ouvre-le avec Power BI Desktop
+* Navigue parmi les pages et utilise les filtres pour explorer les segments
